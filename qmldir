@@ -1,0 +1,31 @@
+module qt_test3
+typeinfo appqt_test3.qmltypes
+prefer :/qt/qml/qt_test3/
+ChatView 1.0 pages/ChatView.qml
+ChatAvatar 1.0 ChatTest/ChatAvatar.qml
+Main 1.0 Main.qml
+Roundedbutton 1.0 button/Roundedbutton.qml
+MyComboBox 1.0 button/MyComboBox.qml
+DisplayFrame 1.0 button/DisplayFrame.qml
+LoginPage 1.0 button/LoginPage.qml
+TermsWindow 1.0 button/TermsWindow.qml
+RegisterPage 1.0 button/RegisterPage.qml
+HomePage 1.0 pages/HomePage.qml
+RegisterPage 1.0 pages/RegisterPage.qml
+ViewCase 1.0 pages/ViewCase.qml
+ViewPrescription 1.0 pages/ViewPrescription.qml
+ViewDoctorinfo 1.0 pages/ViewDoctorinfo.qml
+Datagenerate 1.0 pages/Datagenerate.qml
+Diagnose 1.0 pages/Diagnose.qml
+Bookpage 1.0 pages/Bookpage.qml
+EditDoctorInfo 1.0 pages/EditDoctorInfo.qml
+EditPatientInfo 1.0 pages/EditPatientInfo.qml
+FreeConsultationPage 1.0 pages/FreeConsultationPage.qml
+ChatViewDoctor 1.0 pages/ChatViewDoctor.qml
+AdministratorLogin 1.0 pages/AdministratorLogin.qml
+Viewbutton 1.0 button/Viewbutton.qml
+In_Regeister 1.0 pages/In_Regeister.qml
+Case 1.0 pages/Case.qml
+Diagnose_inwindow 1.0 pages/Diagnose_inwindow.qml
+ViewDoctorinfo_standby 1.0 pages/ViewDoctorinfo_standby.qml
+
